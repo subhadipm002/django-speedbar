@@ -8,7 +8,7 @@ tests_require = [
 install_requires = [
     'ProxyTypes>=0.9',
 ]
-
+vdsgvuyfwgjhjs
 setup(
     name='django-speedbar',
     version='0.2.2',
